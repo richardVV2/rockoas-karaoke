@@ -456,19 +456,6 @@ html[data-dir="rtl"] nav#page-nav > #backBtn, html:not([data-dir="rtl"]) nav#pag
 	.paper-vertical .page, .paper-horizontal .page, .anythingSlider-in5 { padding:0;top:0;border:0; }
 	.paper-vertical, .paper-horizontal { padding:0; }
 }
-label input.choice {display:none;}
-label > .state {cursor:pointer;}
-label > .state:not(.btn-n-off) {display:none;}
-label > input.choice:checked ~ .state:not(.btn-n-on) {display:none;}
-label > input.choice:checked ~ .state.btn-n-on {display:block;}
-label.has-r-off:hover > input.choice:not(:checked) ~ .state.btn-r-off {display:block;}
-label.has-r-off:hover > input.choice:not(:checked) ~ .state:not(.btn-r-off) { display:none;}
-label.has-r-on:hover > input.choice:checked ~ .state.btn-r-on {display:block;}
-label.has-r-on:hover > input.choice:checked ~ .state:not(.btn-r-on) { display:none;}
-label.has-c-on:active > input.choice:checked ~ .state.btn-c-on {display:block;}
-label.has-c-on:active > input.choice:checked ~ .state:not(.btn-c-on) {display:none;}
-label.has-c-off:active > input.choice:not(:checked) ~ .state.btn-c-off {display:block;}
-label.has-c-off:active > input.choice:not(:checked) ~ .state:not(.btn-c-off) {display:none;}
 /*start:fixedpos*/
 .pageItem.fixed-pos-elem { position:fixed !important; }
 .fixed-center-x {
@@ -513,42 +500,42 @@ label.has-c-off:active > input.choice:not(:checked) ~ .state:not(.btn-c-off) {di
 	top:978px !important;
 }
 
-#item5190 {
+#item5265 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item5167 {
+#item5242 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item5144 {
+#item5219 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item5120 {
+#item5196 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item5097 {
+#item5173 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item5074 {
+#item5150 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
@@ -562,14 +549,14 @@ label.has-c-off:active > input.choice:not(:checked) ~ .state:not(.btn-c-off) {di
 	top:38px !important;
 }
 
-#item5051 {
+#item5127 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item5028 {
+#item5104 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
@@ -604,177 +591,147 @@ label.has-c-off:active > input.choice:not(:checked) ~ .state:not(.btn-c-off) {di
 	top:978px !important;
 }
 
-#item5005 {
+#item5080 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item4982 {
+#item5057 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item4959 {
+#item5034 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item4936 {
+#item5011 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item4913 {
+#item4988 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item943 {
-	width:129px !important;
-	height:220px !important;
-}
-
-#item952 {
-	width:129px !important;
-	height:219px !important;
-	left:42px !important;
-}
-
-#item961 {
-	width:129px !important;
-	height:219px !important;
-	left:84px !important;
-}
-
-#item970 {
-	width:128px !important;
-	height:219px !important;
-	left:126px !important;
-	top:1px !important;
-}
-
-#item979 {
-	width:129px !important;
-	height:219px !important;
-	left:168px !important;
-}
-
-#item4890 {
+#item4965 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item4867 {
+#item4942 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item4844 {
+#item4919 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item4821 {
+#item4896 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item4798 {
+#item4872 {
 	width:81px !important;
 	left:400px !important;
 	top:994px !important;
 	min-height:56px !important;
 }
 
-#item4775 {
+#item4849 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4750 {
+#item4826 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4727 {
+#item4803 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4704 {
+#item4780 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4681 {
+#item4757 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4658 {
+#item4734 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4635 {
+#item4711 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4612 {
+#item4688 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4589 {
+#item4665 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4566 {
+#item4642 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4543 {
+#item4618 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
@@ -788,21 +745,21 @@ label.has-c-off:active > input.choice:not(:checked) ~ .state:not(.btn-c-off) {di
 	min-height:70px !important;
 }
 
-#item4520 {
+#item4595 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4497 {
+#item4572 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4474 {
+#item4548 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
@@ -817,14 +774,14 @@ label.has-c-off:active > input.choice:not(:checked) ~ .state:not(.btn-c-off) {di
 	min-height:70px !important;
 }
 
-#item4451 {
+#item4525 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
 	min-height:44px !important;
 }
 
-#item4428 {
+#item4502 {
 	width:56px !important;
 	left:388px !important;
 	top:992px !important;
